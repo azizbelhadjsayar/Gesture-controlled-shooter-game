@@ -1,4 +1,4 @@
-# Gesture-controlled-shooter-game 🦸‍♂ /̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿💥 🧟
+# Gesture-controlled-shooter-game 🦸‍♂ /̵͇̿̿/'̿'̿ ̿ ̿̿💥 🧟
 
 <h2>Project overview 🧐</h2>
 This project is a gesture-controlled shooter game where hordes of enemies are defeated using intuitive hand gestures. The game leverages OpenCV and MediaPipe to enable accurate hand detection and gesture recognition, combined with Pygame for dynamic game development.
